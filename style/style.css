@@ -1,7 +1,7 @@
 
 body{
     font-family: sans-serif,Arial, Helvetica;
-    background: url(/images/pattern-background-desktop.svg);
+    background: url(../images/pattern-background-desktop.svg);
     display: grid;
     place-items: center;
    
