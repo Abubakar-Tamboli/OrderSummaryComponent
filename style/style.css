@@ -3,6 +3,7 @@ body{
     font-family: sans-serif,Arial, Helvetica;
     background: url(../images/pattern-background-desktop.svg);
     background-repeat:no-repeat;
+    background-position:cover;
     background:cover;
     display: grid;
     place-items: center;
