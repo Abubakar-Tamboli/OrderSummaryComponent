@@ -2,6 +2,9 @@
 body{
     font-family: sans-serif,Arial, Helvetica;
     background: url(../images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: cover;
     display: grid;
     place-items: center;
    
