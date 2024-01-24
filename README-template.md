@@ -8,10 +8,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
   - [Screenshot](url:./images/Order0summary-card-screenshot.png)
   - [Links](https://abubakar-tamboli.github.io/OrderSummaryComponent/)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Author](https://github.com/Abubakar-Tamboli)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
