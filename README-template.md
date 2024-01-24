@@ -7,12 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
   - [Screenshot](url:./images/Order0summary-card-screenshot.png)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Links](https://abubakar-tamboli.github.io/OrderSummaryComponent/)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
